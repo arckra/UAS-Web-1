@@ -16,11 +16,11 @@
 
 <img width="1915" height="733" alt="image" src="https://github.com/user-attachments/assets/bc17d3e2-46b4-4d5f-a985-f17f96234d23" />
 
+---
+
 **Tampilan Manajemen User**
 
 <img width="1911" height="829" alt="image" src="https://github.com/user-attachments/assets/8a07b5c6-0a5d-41dd-9234-7c18f5326931" />
-
----
 
 **Tampilan Tambah User**
 
