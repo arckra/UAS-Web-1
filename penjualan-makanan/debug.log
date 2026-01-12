@@ -1,0 +1,96 @@
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/login
+Query String: url=login
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/dashboard
+Query String: url=dashboard
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/login
+Query String: url=login
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/login
+Query String: url=login
+Method: POST
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/dashboard
+Query String: url=dashboard
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/user
+Query String: url=user
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/user/profile
+Query String: url=user/profile
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/user/profile
+Query String: url=user/profile
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/user/profile
+Query String: url=user/profile
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/user/profile
+Query String: url=user/profile
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/user/profile
+Query String: url=user/profile
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/dashboard
+Query String: url=dashboard
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/logout
+Query String: url=logout
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/login?message=logout_success
+Query String: url=login&message=logout_success
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/login?message=logout_success
+Query String: url=login&message=logout_success
+Method: POST
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/dashboard
+Query String: url=dashboard
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/user/profile
+Query String: url=user/profile
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/dashboard
+Query String: url=dashboard
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/logout
+Query String: url=logout
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/login?message=logout_success
+Query String: url=login&message=logout_success
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/login?message=logout_success
+Query String: url=login&message=logout_success
+Method: POST
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/dashboard
+Query String: url=dashboard
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/user
+Query String: url=user
+Method: GET
+=== DEBUG LOG ===
+Request URI: /penjualan-makanan/dashboard
+Query String: url=dashboard
+Method: GET
